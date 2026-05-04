@@ -11,7 +11,7 @@ export default function Footer({ t }) {
     >
 
       <div className="flex items-center justify-center gap-4 mb-3">
-        <a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-400 transition-colors" aria-label="GitHub">
+        <a href="https://github.com/n4ym0n06/Office-Helper" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-400 transition-colors" aria-label="GitHub">
           <Github size={15} />
         </a>
         <a href="https://massgrave.dev" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-400 transition-colors" aria-label="MAS">

@@ -59,15 +59,8 @@ export default function Header({ t }) {
       >
         <Terminal size={14} className="text-gray-600 group-hover:text-gray-400 transition-colors" />
         <code className="text-[13px] text-gray-500 group-hover:text-gray-300 transition-colors font-medium select-all">
-          irm https://get.activated.win | iex
+          Rápido, eficaz y fácil de usar.
         </code>
-        <div className="w-5 h-5 flex items-center justify-center rounded-md bg-white/[0.04] group-hover:bg-white/[0.08] transition-colors">
-          {copied ? (
-            <Check size={11} className="text-emerald-400" />
-          ) : (
-            <Copy size={11} className="text-gray-600 group-hover:text-gray-400 transition-colors" />
-          )}
-        </div>
       </motion.button>
     </motion.header>
   );
