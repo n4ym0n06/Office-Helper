@@ -1,4 +1,5 @@
 # ⚡ Office Helper
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c830e91-bcd1-46cf-85e9-dc49d55b1ed5" />
 
 **Herramienta completa para gestionar Microsoft Office en Windows.**
 
