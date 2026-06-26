@@ -56,10 +56,6 @@ Para **cualquier persona** que necesite Microsoft Office y no quiera complicarse
 
 ---
 
-## 👨‍💻 Desarrollado por
-
-**Naymon Dominguez**
-
 Basado en Microsoft Activation Scripts (MAS) de massgrave.dev
 
 ---
