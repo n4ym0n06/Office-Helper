@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://office-helper-eight.vercel.app/sitemap.xml
